@@ -1,0 +1,36 @@
+id,Nomen,Partei,Sektor,Land,Type
+uvdl,Ursula von der Leyen,CDU,1,Deutschland,1
+lk,Lars Klingbeil,SPD,1,Deutschland,1
+nr,Norbert Röttgen,CDU,1,Deutschland,1
+sw,Sahra Wagenknecht,Linke,1,Deutschland,1
+cs,Constanze Stellzenmüller,N/A,N/A,Deutschland,1
+cl,Christian Lindner,FDP,1,Deutschland,1
+ks,Karl Schlögel,N/A,N/A,Deutschland,1
+lm,Ljudmyla Melnyk,N/A,N/A,Ukraine,1
+kd,Kristina Dunz,N/A,2,Deutschland,1
+el,Egils Levits,LC,1,Lettland,1
+ab,Annalena Baerbock,Grüne,1,Deutschland,1
+ft,Franz Timmersmans,N/A,1,Deutschland,1
+am,Andrij Melnyk,N/A,N/A,Ukraine,1
+agl,Alexander Graf Lambsdorff,FDP,1,Deutschland,1
+er,Egon Ramms,N/A,N/A,Deutschland,1
+rh,Robert Habeck,Grüne,1,Deutschland,1
+cm,Claudia Major,N/A,N/A,Deutschland,1
+kp,Katja Petrowskaja,N/A,2,Deutschland,1
+rk,Roderich Kiesewetter,CDU,1,Deutschland,1
+chl,Christine Lambrecht,SPD,1,Deutschland,1
+sb,Stefanie Babst,N/A,N/A,Deutschland,1
+ch,Christoph Heusgen,N/A,N/A,Deutschland,1
+mw,Marina Weisband,N/A,N/A,Deutschland,1
+os,Olaf Scholz,SPD,1,Deutschland,1
+ff,Folge Fuenfhundert,N/A,3,N/A,2
+ffeins,Folge Fuenfhundert_eins,N/A,3,N/A,2
+ffzwei,Folge Fuenfhundert_zwei,N/A,3,N/A,2
+ffdrei,Folge Fuenfhundert_drei,N/A,3,N/A,2
+ffvier,Folge Fuenfhundert_vier,N/A,3,N/A,2
+fffuenf,Folge Fuenfhundert_fuenf,N/A,3,N/A,2
+cdu,CDU,N/A,N/A,Deutschland,3
+fdp,FDP,N/A,N/A,Deutschland,3
+spd,SPD,N/A,N/A,Deutschland,3
+linke,LINKE,N/A,N/A,Deutschland,3
+grüne,GRÜNE,N/A,N/A,Deutschland,3
